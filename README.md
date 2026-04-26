@@ -9,3 +9,7 @@
 - Finvia
 - Nebula
 
+![Stats Card](https://octometrics.vercel.app/api/stats?username=NurUddin111&theme=dark)
+
+![Repositories](https://octometrics.vercel.app/api/repos?username=NurUddin111&theme=dark&count=5&sort=stars)
+
