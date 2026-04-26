@@ -1,3 +1,5 @@
+![Typing ](https://octometrics.vercel.app/api/typing?lines=Hello%20World%2C%20I%20am%20Nur.%20%2C%20Full%20Stack%20Developer&speed=80&pause=1000&theme=dark)
+
 # Hi, I'm Nur 👋
 
 🚀 Frontend-focused Full Stack Developer  
