@@ -4,7 +4,7 @@
 
 ## Hi, I'm Nur 👋
 
-🚀 Full-Stack Engineer | Backend-Focused
+🚀 Backend-Focused Full-Stack Engineer
 💻 Next.js | TypeScript | MongoDB  
 🌱 Currently building real-world applications  
 
