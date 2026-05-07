@@ -2,13 +2,13 @@
 
 ![Banner](https://octometrics.vercel.app/api/banner?name=Muhammad%20Nur%20Uddin&title=Full-Stack%20Engineer%20%7C%20Backend-Focused&subtitle=Focused%20on%20performance%2C%20maintainability%2C%20and%20long-term%20stability.&tech=Next.js%2C%20Node.js%2C%20PostgreSQL%2C%20TypeScript%2C%20AI&location=Bangladesh&pattern=dots&wave=false&align=left&theme=dark)
 
-### Hi, I'm Nur 👋
+## Hi, I'm Nur 👋
 
 🚀 Frontend-focused Full Stack Developer  
 💻 Next.js | TypeScript | MongoDB  
 🌱 Currently building real-world applications  
 
-## 🔥 Projects
+# 🔥 Projects
 - Safari
 - Finvia
 - Nebula
@@ -17,5 +17,16 @@
 
 ![Repositories](https://octometrics.vercel.app/api/repos?username=NurUddin111&theme=dark&count=5&sort=stars)
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
+# TypeScript
+
+TypeScript
+
+```TypeScript
+TypeScript
+```
+
+---
+
+---
