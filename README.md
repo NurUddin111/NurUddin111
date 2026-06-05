@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Muhammad+Nur+Uddin;Backend-Focused+Full-Stack+Developer;Creator+of+Finvia)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Muhammad+Nur+Uddin;Backend-Focused+Full-Stack+Developer;Creator+of+Finvia)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <img width="1881" height="836" alt="ChatGPT Image Jun 5, 2026, 06_27_42 PM" src="https://github.com/user-attachments/assets/85735e0e-b7f6-4660-a81b-505c2ca5b542" />
 
@@ -56,7 +56,9 @@ Finance Management SaaS Platform
 * Google OAuth
 * Payment Integration
 
-🔗 Live: https://finvia-finance-management.vercel.app
+- 🔗 [Live Demo](https://finvia-finance-management.vercel.app)
+- 🔗 [Frontend Repository](https://github.com/NurUddin111/finvia-finance-management-frontend)
+- 🔗 [Backend Repository](https://github.com/NurUddin111/finvia-finance-management-backend)
 
 ---
 
@@ -69,6 +71,9 @@ Real-Time Chat Application
 * Modern UI
 * Socket.IO
 
+- 🔗 [Live Demo](https://nebula-productivity-app.vercel.app)
+- 🔗 [Github Repository](https://github.com/NurUddin111/nebula-productivity-app)
+
 ---
 
 ## 🚖 Safari
@@ -79,6 +84,10 @@ Ride Sharing Platform
 * Booking Management
 * Authentication System
 * REST API Architecture
+
+- 🔗 [Live Demo](https://finvia-finance-management.vercel.app) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+- 🔗 [Frontend Repository](https://github.com/NurUddin111/safari-ride-sharing-app-frontend)
+- 🔗 [Backend Repository](https://github.com/NurUddin111/safari-ride-sharing-app-backend)
 
 ---
 
@@ -92,10 +101,10 @@ Ride Sharing Platform
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/muhammad-nur-uddin
+💼 [LinkedIn](https://www.linkedin.com/in/muhammad-nur-uddin)
 
-🌐 Portfolio: https://nur-portfolio-blush.vercel.app
+🌐 [Portfolio](https://nur-portfolio-blush.vercel.app)
 
 📧 Email: nuruddinmuhammad38@gmail.com
 
-🐙 GitHub: https://github.com/NurUddin111
+🐙 [GitHub](https://github.com/NurUddin111)
