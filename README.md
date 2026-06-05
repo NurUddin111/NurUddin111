@@ -91,11 +91,11 @@ Ride Sharing Platform
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NurUddin111&show_icons=true&theme=tokyonight)
+## 📊 GitHub Analytics
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=NurUddin111&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NurUddin111&layout=compact&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NurUddin111&theme=tokyo-night)
 
 ---
 
