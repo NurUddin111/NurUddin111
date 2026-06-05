@@ -8,7 +8,7 @@ Backend-Focused Full-Stack Developer from Bangladesh 🇧🇩
 
 I build scalable SaaS platforms, real-time applications, and modern web solutions using Node.js, PostgreSQL, TypeScript, React, and Next.js.
 
-Currently focused on backend engineering, system design, and building production-ready software.
+Currently focused on backend engineering, scalable system design, and production-ready software development.
 
 ---
 
@@ -85,17 +85,17 @@ Ride Sharing Platform
 * Authentication System
 * REST API Architecture
 
-- 🔗 [Live Demo](https://finvia-finance-management.vercel.app) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+- 🔗 ![Live Demo](https://img.shields.io/badge/Live_Demo-Loading...-orange)
 - 🔗 [Frontend Repository](https://github.com/NurUddin111/safari-ride-sharing-app-frontend)
 - 🔗 [Backend Repository](https://github.com/NurUddin111/safari-ride-sharing-app-backend)
 
 ---
 
-![Stats Card](https://octometrics.vercel.app/api/stats?username=NurUddin111&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NurUddin111&show_icons=true&theme=tokyonight)
 
 ---
 
-![Repositories](https://octometrics.vercel.app/api/repos?username=NurUddin111&theme=dark&count=6&sort=stars)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NurUddin111&layout=compact&theme=tokyonight)
 
 ---
 
