@@ -6,28 +6,29 @@
 
 Backend-Focused Full-Stack Developer from Bangladesh 🇧🇩
 
-I build scalable SaaS platforms, real-time applications, and modern web solutions using Node.js, PostgreSQL, TypeScript, React, and Next.js.
-
-Currently focused on backend engineering, scalable system design, and production-ready software development.
+Building scalable SaaS platforms, real-time applications, and modern web experiences with TypeScript, Node.js, PostgreSQL, React, and Next.js.
 
 ---
 
 ## ⚙️ Tech Stack
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
@@ -48,13 +49,17 @@ Currently focused on backend engineering, scalable system design, and production
 
 ## 💼 Finvia
 
-Finance Management SaaS Platform
+Finvia is a modern finance management SaaS platform that helps freelancers and small businesses manage clients, invoices, payments, financial reporting, and business insights from a single dashboard.
 
-* Invoice Management
-* Client Management
-* Business Analytics
-* Google OAuth
-* Payment Integration
+### Key Features
+
+- Invoice Management
+- Client Management
+- Payment Tracking
+- Financial Analytics
+- Business Dashboard
+- Secure Authentication
+- Responsive Design
 
 - 🔗 [Live Demo](https://finvia-finance-management.vercel.app)
 - 🔗 [Frontend Repository](https://github.com/NurUddin111/finvia-finance-management-frontend)
@@ -64,7 +69,7 @@ Finance Management SaaS Platform
 
 ## 💬 Nebula
 
-Real-Time Chat Application
+A real-time communication platform built with Socket.IO, authentication, and modern React architecture.
 
 * Real-Time Messaging
 * Authentication
@@ -78,16 +83,25 @@ Real-Time Chat Application
 
 ## 🚖 Safari
 
-Ride Sharing Platform
+A scalable ride-sharing platform featuring role-based access control, booking management, secure authentication, and RESTful API architecture.
 
 * Role-Based Access Control
 * Booking Management
 * Authentication System
 * REST API Architecture
 
-- 🔗 ![Live Demo](https://img.shields.io/badge/Live_Demo-Loading...-orange)
+- 🔗 Live Demo: Under Development
 - 🔗 [Frontend Repository](https://github.com/NurUddin111/safari-ride-sharing-app-frontend)
 - 🔗 [Backend Repository](https://github.com/NurUddin111/safari-ride-sharing-app-backend)
+
+---
+
+## 🔭 Currently Working On
+
+- Building Finvia — Finance Management SaaS
+- Learning scalable backend architecture
+- Exploring Docker & AWS deployment workflows
+- Strengthening PostgreSQL and system design skills
 
 ---
 
