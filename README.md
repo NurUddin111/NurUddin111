@@ -51,7 +51,7 @@ Building scalable SaaS platforms, real-time applications, and modern web experie
 
 Finvia is a modern finance management SaaS platform that helps freelancers and small businesses manage clients, invoices, payments, financial reporting, and business insights from a single dashboard.
 
-### Key Features
+### ✨ Key Features
 
 - Invoice Management
 - Client Management
@@ -60,6 +60,8 @@ Finvia is a modern finance management SaaS platform that helps freelancers and s
 - Business Dashboard
 - Secure Authentication
 - Responsive Design
+
+### 🚀 Links
 
 - 🔗 [Live Demo](https://finvia-finance-management.vercel.app)
 - 🔗 [Frontend Repository](https://github.com/NurUddin111/finvia-finance-management-frontend)
@@ -71,10 +73,14 @@ Finvia is a modern finance management SaaS platform that helps freelancers and s
 
 A real-time communication platform built with Socket.IO, authentication, and modern React architecture.
 
+### ✨ Key Features
+
 * Real-Time Messaging
 * Authentication
 * Modern UI
 * Socket.IO
+
+### 🚀 Links
 
 - 🔗 [Live Demo](https://nebula-productivity-app.vercel.app)
 - 🔗 [Github Repository](https://github.com/NurUddin111/nebula-productivity-app)
@@ -85,10 +91,14 @@ A real-time communication platform built with Socket.IO, authentication, and mod
 
 A scalable ride-sharing platform featuring role-based access control, booking management, secure authentication, and RESTful API architecture.
 
+### ✨ Key Features
+
 * Role-Based Access Control
 * Booking Management
 * Authentication System
 * REST API Architecture
+
+### 🚀 Links
 
 - 🔗 Live Demo: Under Development
 - 🔗 [Frontend Repository](https://github.com/NurUddin111/safari-ride-sharing-app-frontend)
