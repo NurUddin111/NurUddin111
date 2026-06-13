@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Muhammad+Nur+Uddin;Backend-Focused+Full-Stack+Developer;Creator+of+Finvia)](https://github.com/DenverCoder1/readme-typing-svg)
 
-<img width="1881" height="836" alt="ChatGPT Image Jun 5, 2026, 06_27_42 PM" src="https://github.com/user-attachments/assets/85735e0e-b7f6-4660-a81b-505c2ca5b542" />
+<img width="1200" height="630" alt="og_1200x630" src="https://github.com/user-attachments/assets/fe07ded4-f611-4170-a50e-4b1bbd8eea05" />
 
 ## 👋 Hi, I'm Muhammad Nur Uddin
 
