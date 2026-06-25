@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Muhammad+Nur+Uddin;Backend-Focused+Full-Stack+Developer;Creator+of+Finvia)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Muhammad+Nur+Uddin;Full-Stack+Developer;Creator+of+Finvia)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <img width="1200" height="630" alt="og_1200x630_edited (1)" src="https://github.com/user-attachments/assets/92d32da0-360f-4c99-aa2b-c2ff3f327cd3" />
 
