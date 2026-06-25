@@ -75,10 +75,10 @@ They struggle because their data lives everywhere.
 Products in one place. Clients in another. Invoices in spreadsheets. Payments tracked manually.
 Finvia was built to bring those workflows together into a single platform.
 
-• Built a multi-tenant SaaS from scratch — each business workspace is fully isolated, with its own products, clients, invoices, and payment data.
-• Integrated SSLCommerz for online payments, Nodemailer for transactional email, and Cloudinary for file storage — three third-party services connected with zero data leakage between tenants.
-• Engineered PDF invoice and receipt generation, professional invoice dispatch, and real-time search and filtering — delivering a complete business finance workflow end to end.
-• Resolved 3 critical production incidents (SMTP port restrictions, Prisma P3006 migration failures, cross-domain CORS auth errors) — restoring full service with zero downtime and zero data loss.
+* Built a multi-tenant SaaS from scratch — each business workspace is fully isolated, with its own products, clients, invoices, and payment data.
+* Integrated SSLCommerz for online payments, Nodemailer for transactional email, and Cloudinary for file storage — three third-party services connected with zero data leakage between tenants.
+* Engineered PDF invoice and receipt generation, professional invoice dispatch, and real-time search and filtering — delivering a complete business finance workflow end to end.
+* Resolved 3 critical production incidents (SMTP port restrictions, Prisma P3006 migration failures, cross-domain CORS auth errors) — restoring full service with zero downtime and zero data loss.
 
 Building Finvia challenged me across authentication, payment integration, PDF generation, email systems, responsive design, and overall user experience.
 
@@ -86,19 +86,19 @@ Built with Next.js, TypeScript, Express.js, PostgreSQL, Prisma, JWT, ShadCN UI, 
 
 ### ✨ Key Features
 
-- Invoice Management
-- Client Management
-- Payment Tracking
-- Financial Analytics
-- Business Dashboard
-- Secure Authentication
-- Responsive Design
+* Invoice Management
+* Client Management
+* Payment Tracking
+* Financial Analytics
+* Business Dashboard
+* Secure Authentication
+* Responsive Design
 
 ### 🚀 Links
 
-- 🔗 [Live Demo](https://finvia-finance-management.vercel.app)
-- 🔗 [Frontend Repository](https://github.com/NurUddin111/finvia-finance-management-frontend)
-- 🔗 [Backend Repository](https://github.com/NurUddin111/finvia-finance-management-backend)
+* 🔗 [Live Demo](https://finvia-finance-management.vercel.app)
+* 🔗 [Frontend Repository](https://github.com/NurUddin111/finvia-finance-management-frontend)
+* 🔗 [Backend Repository](https://github.com/NurUddin111/finvia-finance-management-backend)
 
 ---
 
@@ -108,9 +108,9 @@ Real-time messaging sounds simple — until you actually build it.
 
 Nebula is a full-stack chat application built with the MERN stack and Socket.io, focused on real-time communication and a consistent experience across every device.
 
-• Built real-time messaging with Socket.io — including online/offline presence indicators, typing sounds, notification sounds, and image sharing support.
-• Implemented custom JWT authentication from scratch — secure session handling with no third-party auth libraries.
-• Solved cross-device UI consistency issues that most developers skip — flex overflow bugs, Android input color overrides, and mobile keyboard layout shifts — resulting in a reliable experience on every screen size.
+* Built real-time messaging with Socket.io — including online/offline presence indicators, typing sounds, notification sounds, and image sharing support.
+* Implemented custom JWT authentication from scratch — secure session handling with no third-party auth libraries.
+* Solved cross-device UI consistency issues that most developers skip — flex overflow bugs, Android input color overrides, and mobile keyboard layout shifts — resulting in a reliable experience on every screen size.
 
 The hardest part wasn't the real-time messaging. It was making the UI behave the same everywhere. That's the part most tutorials don't cover.
 
@@ -125,17 +125,17 @@ Built with MongoDB, Express.js, React, Node.js, Socket.io, TypeScript, and JWT.
 
 ### 🚀 Links
 
-- 🔗 [Live Demo](https://nebula-productivity-app.vercel.app)
-- 🔗 [Github Repository](https://github.com/NurUddin111/nebula-productivity-app)
+* 🔗 [Live Demo](https://nebula-productivity-app.vercel.app)
+* 🔗 [Github Repository](https://github.com/NurUddin111/nebula-productivity-app)
 
 ---
 
 ## 🔭 Currently Working On
 
-- Building ShifraAI — AI Voice Agent
-- Learning scalable backend architecture
-- Exploring Docker & AWS deployment workflows
-- Strengthening PostgreSQL and system design skills
+* Building ShifraAI — AI Voice Agent
+* Learning scalable backend architecture
+* Exploring Docker & AWS deployment workflows
+* Strengthening PostgreSQL and system design skills
 
 ---
 
