@@ -70,7 +70,19 @@ Building scalable SaaS platforms, real-time applications, and modern web experie
 
 ## 💼 Finvia
 
-Finvia is a modern finance management SaaS platform that helps freelancers and small businesses manage clients, invoices, payments, financial reporting, and business insights from a single dashboard.
+Most businesses don't struggle because they lack data.
+They struggle because their data lives everywhere.
+Products in one place. Clients in another. Invoices in spreadsheets. Payments tracked manually.
+Finvia was built to bring those workflows together into a single platform.
+
+• Built a multi-tenant SaaS from scratch — each business workspace is fully isolated, with its own products, clients, invoices, and payment data.
+• Integrated SSLCommerz for online payments, Nodemailer for transactional email, and Cloudinary for file storage — three third-party services connected with zero data leakage between tenants.
+• Engineered PDF invoice and receipt generation, professional invoice dispatch, and real-time search and filtering — delivering a complete business finance workflow end to end.
+• Resolved 3 critical production incidents (SMTP port restrictions, Prisma P3006 migration failures, cross-domain CORS auth errors) — restoring full service with zero downtime and zero data loss.
+
+Building Finvia challenged me across authentication, payment integration, PDF generation, email systems, responsive design, and overall user experience.
+
+Built with Next.js, TypeScript, Express.js, PostgreSQL, Prisma, JWT, ShadCN UI, Recharts, Nodemailer, SSLCommerz, and Cloudinary.
 
 ### ✨ Key Features
 
@@ -92,7 +104,17 @@ Finvia is a modern finance management SaaS platform that helps freelancers and s
 
 ## 💬 Nebula
 
-A real-time communication platform built with Socket.IO, authentication, and modern React architecture.
+Real-time messaging sounds simple — until you actually build it.
+
+Nebula is a full-stack chat application built with the MERN stack and Socket.io, focused on real-time communication and a consistent experience across every device.
+
+• Built real-time messaging with Socket.io — including online/offline presence indicators, typing sounds, notification sounds, and image sharing support.
+• Implemented custom JWT authentication from scratch — secure session handling with no third-party auth libraries.
+• Solved cross-device UI consistency issues that most developers skip — flex overflow bugs, Android input color overrides, and mobile keyboard layout shifts — resulting in a reliable experience on every screen size.
+
+The hardest part wasn't the real-time messaging. It was making the UI behave the same everywhere. That's the part most tutorials don't cover.
+
+Built with MongoDB, Express.js, React, Node.js, Socket.io, TypeScript, and JWT.
 
 ### ✨ Key Features
 
@@ -108,28 +130,9 @@ A real-time communication platform built with Socket.IO, authentication, and mod
 
 ---
 
-## 🚖 Safari
-
-A scalable ride-sharing platform featuring role-based access control, booking management, secure authentication, and RESTful API architecture.
-
-### ✨ Key Features
-
-* Role-Based Access Control
-* Booking Management
-* Authentication System
-* REST API Architecture
-
-### 🚀 Links
-
-- 🔗 Live Demo: Under Development
-- 🔗 [Frontend Repository](https://github.com/NurUddin111/safari-ride-sharing-app-frontend)
-- 🔗 [Backend Repository](https://github.com/NurUddin111/safari-ride-sharing-app-backend)
-
----
-
 ## 🔭 Currently Working On
 
-- Building Finvia — Finance Management SaaS
+- Building ShifraAI — AI Voice Agent
 - Learning scalable backend architecture
 - Exploring Docker & AWS deployment workflows
 - Strengthening PostgreSQL and system design skills
@@ -148,8 +151,8 @@ A scalable ride-sharing platform featuring role-based access control, booking ma
 
 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-nur-uddin)
 
-🌐 [Portfolio](https://nur-portfolio-blush.vercel.app)
+🌐 [Portfolio](https://muhammad-nur-uddin.vercel.app)
 
-📧 Email: nuruddinmuhammad38@gmail.com
+📧 Email: muhammadnur.codes@gmail.com
 
 🐙 [GitHub](https://github.com/NurUddin111)
