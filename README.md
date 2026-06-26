@@ -124,9 +124,17 @@ Built with MongoDB, Express.js, React, Node.js, Socket.io, TypeScript, and JWT.
 
 ## 📊 GitHub Analytics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=NurUddin111&theme=tokyonight)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NurUddin111&theme=tokyo-night&hide_border=true&area=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NurUddin111&theme=tokyo-night)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NurUddin111&theme=tokyonight&hide_border=true)
+
+---
+
+## 📊 GitHub Stats
+
+![Muhammad Nur Uddin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NurUddin111&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NurUddin111&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ---
 
