@@ -84,16 +84,6 @@ Building Finvia challenged me across authentication, payment integration, PDF ge
 
 Built with Next.js, TypeScript, Express.js, PostgreSQL, Prisma, JWT, ShadCN UI, Recharts, Nodemailer, SSLCommerz, and Cloudinary.
 
-### ✨ Key Features
-
-* Invoice Management
-* Client Management
-* Payment Tracking
-* Financial Analytics
-* Business Dashboard
-* Secure Authentication
-* Responsive Design
-
 ### 🚀 Links
 
 * 🔗 [Live Demo](https://finvia-finance-management.vercel.app)
@@ -115,13 +105,6 @@ Nebula is a full-stack chat application built with the MERN stack and Socket.io,
 The hardest part wasn't the real-time messaging. It was making the UI behave the same everywhere. That's the part most tutorials don't cover.
 
 Built with MongoDB, Express.js, React, Node.js, Socket.io, TypeScript, and JWT.
-
-### ✨ Key Features
-
-* Real-Time Messaging
-* Authentication
-* Modern UI
-* Socket.IO
 
 ### 🚀 Links
 
