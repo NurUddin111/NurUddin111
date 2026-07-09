@@ -2,8 +2,6 @@
 
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Full--Stack%20%7C%20Backend%20%7C%20Frontend-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white)](https://linkedin.com/in/muhammad-nur-uddin)
 
-![Profile Views](https://komarev.com/ghpvc/?username=NurUddin111&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
-
 <img width="1200" height="630" alt="og_1200x630_edited (1)" src="https://github.com/user-attachments/assets/92d32da0-360f-4c99-aa2b-c2ff3f327cd3" />
 
 ## 👋 Hi, I'm Muhammad Nur Uddin
