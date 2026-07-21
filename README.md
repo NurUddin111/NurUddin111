@@ -59,8 +59,8 @@ Building scalable SaaS platforms, real-time applications, and modern web experie
 
 ### Soft skills
 
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-4CAF50?style=for-the-badge)
-![Algorithm Design](https://img.shields.io/badge/Algorithm_Design-FF9800?style=for-the-badge)
+![Time Management](https://img.shields.io/badge/Problem_Solving-4CAF50?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Algorithm_Design-FF9800?style=for-the-badge)
 ![Debugging](https://img.shields.io/badge/Debugging-2196F3?style=for-the-badge)
 ![Complex Systems](https://img.shields.io/badge/Complex_Systems-9C27B0?style=for-the-badge)
 ![Logical Reasoning](https://img.shields.io/badge/Logical_Reasoning-607D8B?style=for-the-badge)
