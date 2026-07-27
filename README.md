@@ -2,7 +2,7 @@
 
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Full--Stack%20%7C%20Backend%20%7C%20Frontend-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white)](https://linkedin.com/in/muhammad-nur-uddin)
 
-<img width="1200" height="630" alt="og_1200x630_edited (1)" src="https://github.com/user-attachments/assets/92d32da0-360f-4c99-aa2b-c2ff3f327cd3" />
+<img width="1200" height="630" alt="og_1200x630_centered" src="https://github.com/user-attachments/assets/f22f3ff2-7feb-416d-8484-e3f22777e32a" />
 
 ## 👋 Hi, I'm Muhammad Nur Uddin
 
