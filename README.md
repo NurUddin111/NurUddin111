@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Muhammad+Nur+Uddin;Full-Stack+Developer;Creator+of+Finvia)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Muhammad+Nur+Uddin;Full-Stack+Developer)](https://github.com/DenverCoder1/readme-typing-svg)
 
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Full--Stack%20%7C%20Backend%20%7C%20Frontend-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white)](https://linkedin.com/in/muhammad-nur-uddin)
 
